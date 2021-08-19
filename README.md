@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm <code>Sandesh Sharma</code>.</h1>
-<h4 align="center">A Software Engineering student from :nepal:.</h4>
+
+
+<h1 align="center">
+  <a href="https://ashokcpg.com.np">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Sandesh+Sharma.">
+  </a>
+</h1>
+<h5 align="center">I'm a Software Engineering student from :nepal:.</h5>
 
 
 
@@ -22,11 +28,18 @@
 <p>&nbsp;</p>
 
 
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=sandesh-sharma&show_icons=true&locale=en" alt="sandesh-sharma" />
+### Github Statistics:
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=sandesh-sharma&hide=contribs,prs&show_icons=true&theme=algolia)
+
+
+### Languges I use the most:
+
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-sharma&layout=compact&theme=algolia)](https://github.com/sandesh-sharma)
+
+
  
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh-sharma&" alt="sandesh-sharma" /></p>
-<p>&nbsp;</p>
 
 
 
