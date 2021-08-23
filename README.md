@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <a href="https://ashokcpg.com.np">
+  <a href="https://sandesh-sharma.github.io/">
     <img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Sandesh+Sharma.">
   </a>
 </h1>
