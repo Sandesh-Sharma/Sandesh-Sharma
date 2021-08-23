@@ -33,7 +33,7 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=sandesh-sharma&hide=contribs,prs&show_icons=true&theme=algolia)
 
 
-### Languges I use the most:
+### Languages I use the most:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-sharma&layout=compact&theme=algolia)](https://github.com/sandesh-sharma)
 
