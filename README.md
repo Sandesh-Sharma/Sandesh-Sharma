@@ -15,7 +15,7 @@
 
 - 📫  Reach me: **thesandeshsharma@gmail.com**
 
-- ⚡ Fun Fact: **I overthink.**
+- ⚡ Fun Fact: **I like to overthink.**
  <p>&nbsp;</p>
 
 
